@@ -31,12 +31,4 @@ If a packet received by the receiver is wrong (aka out of order) then:
 It resets it count and wait for the correct (missed) packet again, followed by all other packets (in-order).
 
 
-Made by:
 
-Madhav Sainanee
-
-Rishabh Sharma
-
-Dhruv Kundu
-
-Jay Rawal
